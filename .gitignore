@@ -1,5 +1,6 @@
 # Object file
 *.o
-
+_pycache_/,.venv/
 # Ada Library Information
 *.ali
+git add.
