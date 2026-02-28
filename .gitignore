@@ -1,7 +1,0 @@
-# Object file
-*.o
-__pycache__/
-.venv/
-# Ada Library Information
-*.ali
-git add.
